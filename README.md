@@ -22,7 +22,7 @@ It is possible to creat this script without the aggdraw module however I chose a
 
 ##### Usage
 
-The script simply outputs the background to file.png (easily changed). If you have a resolution != 1920x1080 you can change the resx and resy variable at the top of the script to your resolution. The command I use is simply `python shapepaper.py && feh --bg-fill file.png`. Change feh to your prefered bg setter if you want.
+The script simply outputs the background to file.png (easily changed). If you have a resolution != 1920x1080 you can change the resx and resy variable at the top of the script to your resolution. I would also *highly* reccommend you change the command to set background at the top to one that you prefer, I use feh but not all distro use/have it.  The command I use is simply `python shapepaper.py`.
 
 
 
