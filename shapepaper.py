@@ -91,6 +91,7 @@ elif shape == 10:
         im.paste(hex, (resx-250, resy-250, resx+250, resy+250), hex)
 # save file 
 im.save("file.png", "PNG")  
-print r,g,b,darkr,darkg,darkb
-print shape
-status, output = commands.getstatusoutput(command)  # status=0 if success
+
+#print r,g,b,darkr,darkg,darkb
+#print shape
+#status, output = commands.getstatusoutput(command)  # status=0 if success
