@@ -12,7 +12,7 @@ You *must* install these prerequisites as this script is unbelievably simple and
 - Pillow or PIL
 - The aggdraw module (explained below)
 
-It is possible to creat this script without the aggdraw module however I chose aggdraw fairly early into "development" and simply stuck with it, I may eventually make a branch that doesn't require it.
+It is possible to create this script without the aggdraw module however I chose aggdraw fairly early into "development" and simply stuck with it, I may eventually make a branch that doesn't require it.
 
 ### Install and Usage
 
