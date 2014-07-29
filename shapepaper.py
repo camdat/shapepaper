@@ -94,4 +94,4 @@ im.save("file.png", "PNG")
 
 #print r,g,b,darkr,darkg,darkb
 #print shape
-#status, output = commands.getstatusoutput(command)  # status=0 if success
+status, output = commands.getstatusoutput(command)  # status=0 if success
